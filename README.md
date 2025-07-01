@@ -5,7 +5,7 @@
   
   <!-- Typing animation with matching colors -->
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=00D9FF&background=0D1117&center=true&vCenter=true&width=900&height=120&lines=CSE+Student+%40+University+of+Moratuwa;Full-stack+Developer+%7C+Cybersecurity+Enthusiast;Machine+Learning+%26+UI%2FUX+Designer;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=00D9FF&background=0D1117&center=true&vCenter=true&width=900&height=120&lines=CSE+Undergraduate+%40+University+of+Moratuwa;Full-stack+Developer+%7C+Cybersecurity+Enthusiast;Machine+Learning+%26+UI%2FUX+Designer;Always+Learning+New+Things" alt="Typing SVG" />
 </a>
   <br><br>
 
